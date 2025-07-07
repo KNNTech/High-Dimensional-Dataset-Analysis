@@ -12,7 +12,7 @@ library(moments)
 library(caret)
 library(ggplot2)
 
-# 3. Load your data
+# 3. Load data
 data <- read.csv("data.csv", header = TRUE, row.names = 1)
 labels <- read.csv("labels.csv", header = TRUE, row.names = 1)
 
