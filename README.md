@@ -16,7 +16,7 @@ The analysis explores how different sampling strategies affect statistical prope
 - High-dimensional data analysis  
 - R programming and data visualization  
 - Sampling techniques for biomedical datasets  
-- Scientific communication  
+- Analytical communication approach 
 
 ## Author
 Created by Kat Campise
