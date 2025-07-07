@@ -1,26 +1,31 @@
-# RNA-Seq Sampling Analysis Project
+# High-Dimensional Dataset Analysis
 
-This project demonstrates the implementation and comparison of sampling distribution techniques (Simple Random, Stratified, Systematic) in R, using the RNA-Seq PAN-CAN gene expression dataset from the UCI Machine Learning Repository. 
+This project demonstrates the implementation and comparison of sampling distribution techniques (Simple Random, Stratified, Systematic) in R, using the RNA-Seq PAN-CAN gene expression dataset from the UCI Machine Learning Repository.
 
-The analysis explores how different sampling strategies affect statistical properties (mean, variance, skewness, kurtosis) and distributional fidelity (via histograms and QQ plots) in high-dimensional biomedical data — a critical consideration in personalized medicine.
+The analysis explores how different sampling strategies affect statistical properties—mean, variance, skewness, and kurtosis—and distributional fidelity (via histograms and QQ plots) in high-dimensional biomedical data, a critical consideration in personalized medicine.
 
-## Contents
-- `K.Campise DDS 8521-3R.R`: R script for data processing, sampling, and statistical analysis.
-- `K.Campise DDS 8521-3.edited.docx`: Full academic report detailing methods, results, and implications.
+## 📁 Contents
 
-## Tools Used
+- `High Dimensional Dataset Analysis.R`: R script for data processing, sampling implementation, and statistical analysis.
+- `High Dimensional Dataset Analysis.PDF`: Final academic report in PDF format, detailing methodology, results, and implications.
+
+## 🔧 Tools Used
+
 - R (base, `ggplot2`, `e1071`, `caret`, `dplyr`)
-- RNA-Seq (HiSeq) PAN-CAN Dataset [UCI Repository](https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq)
+- RNA-Seq (HiSeq) PAN-CAN Dataset ([UCI Repository, 2016](https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq))
 
-## Key Skills Demonstrated
-- High-dimensional data analysis  
-- R programming and data visualization  
-- Sampling techniques for biomedical datasets  
-- Analytical communication approach 
+## 💡 Key Skills Demonstrated
 
-## Author
+- High-dimensional data preprocessing and visualization  
+- Implementation of sampling distributions in R  
+- Evaluation of distributional characteristics (mean, variance, skewness, kurtosis)  
+- Critical analysis of sampling impacts in biomedical research  
+- Technical documentation and academic writing
+
+## 👤 Author
+
 Created by Kat Campise
 
-## License
+## 📄 License
 
 This project is licensed under © KNNTech, 2025. All rights reserved.
